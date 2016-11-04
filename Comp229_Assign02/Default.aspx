@@ -11,7 +11,7 @@
         <div class="col-md-12">
             <h2>Healthy Living is key</h2>
             <p>
-                Healthsev is a small nutritional company that sells organic honey, nuts and berries online.
+                Healthserv is a small nutritional company that sells organic honey, nuts and berries online.
                 This web survey was created to get to know our customers and what products they like best.
                 We want to show you that we care and cater to your needs.
 

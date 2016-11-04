@@ -31,13 +31,11 @@ textarea {
     }
 }
 .jumbotron {
-    background-image: url('../Assets/womenhealth.jpg');
+    background-image: url('../Assets/pexels-photo-140928.jpeg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     font-family: 'Coiny', cursive;
-    color:aliceblue;
-
-
+    color: aliceblue;
 }
 .jumbotron h1 {
     font-size: 63px;
