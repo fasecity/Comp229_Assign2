@@ -56,3 +56,12 @@ textarea {
 .row{
     font-size:20px;
 }
+.navbar-inverse {
+    background-color: #00786f;
+    border-color: #080808;
+}
+.btn-primary {
+    color: #ffffff;
+    background-color: #da05a8;
+    border-color: #a835bd;
+}

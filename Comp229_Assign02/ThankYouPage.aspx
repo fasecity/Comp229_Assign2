@@ -17,7 +17,7 @@
     <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
    
       </div>
-        
+         <p><a href="Default.aspx" class="btn btn-primary btn-lg">Home &raquo;</a></p>
 
   
    

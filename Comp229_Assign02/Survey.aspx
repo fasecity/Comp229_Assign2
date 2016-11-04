@@ -5,7 +5,7 @@
 
 
  <div class="age">
-   <br />
+   
        <br />
        <br />
       <asp:Label ID="AgeLabel" runat="server" Text="Label"></asp:Label>
@@ -34,7 +34,7 @@
          ValidationExpression="^[a-zA-Z'.\s]{1,40}$" Display="Dynamic"></asp:RegularExpressionValidator>
      
       <br />
-     
+        <p> Gender is optional</p>
          <asp:Label ID="GenderLabel" runat="server" Text="Gender"></asp:Label>
          <asp:RadioButton ID="MaleRadioButton" Text="Male" runat="server" />
          <asp:RadioButton ID="FemaleRadioButton" Text="Female" runat="server" />
